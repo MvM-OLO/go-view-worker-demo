@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "go-view-worker": "file:../go-view-worker/go-view-worker-0.0.8.tgz",
+    "go-view-worker": "0.0.2",
     "lodash-es": "^4.17.23",
     "naive-ui": "^2.43.2",
     "pinia": "^3.0.4",
